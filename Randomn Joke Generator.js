@@ -12,4 +12,4 @@ console.log(getRandom)
 }
 
 getJoke() 
-//hopefully this works like its supposed too
+//hopefully this works like its supposed too!
