@@ -10,4 +10,5 @@ const getRandom = arr[Math.floor(Math.random() * arr.length)]
 const getJoke = () => {
 console.log(getRandom)
 }
-getJoke()
+
+getJoke() 
